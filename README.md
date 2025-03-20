@@ -1,4 +1,4 @@
-# https-github.com-gh geiLegal! Então, você quer criar um jogo com temática de abelhas usando *Java*. Vou te ajudar a estruturar o projeto e a definir uma ideia inicial para o jogo. Vamos focar em um projeto simples, mas que pode ser expandido à medida que você aprende mais sobre programação em Java.
+# https-github.com-gh 
 
 Aqui estão os passos básicos e uma ideia para o jogo:
 
